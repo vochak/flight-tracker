@@ -1,0 +1,7 @@
+{
+  "name": "Aegis Radar Command",
+  "description": "A professional-grade Radar Plan Position Indicator (PPI) interface. Capable of tracking simulated targets with physics-based movement and visualizing real-time ADSB flight data on a high-performance tactical display.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
